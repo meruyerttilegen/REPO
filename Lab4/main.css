@@ -3,7 +3,7 @@
 
 
   body{
-    background-color: #e8ccbc;
+    background-color: #BCD2E8;
     margin-left: 1vw;
     margin-right: 1vw;
   }
@@ -495,7 +495,7 @@
 @media screen and (min-width:768px) and (max-width: 1200px) {
 
   body{
-    background-color: #e8ccbc;
+    background-color: #BCD2E8;
     margin-left: 1vw;
     margin-right: 1vw;
   }
@@ -574,7 +574,7 @@
   
   #task{
     float:left;
-    width:37vw;
+    width:35vw;
     background-color: #528AAE;
     height: 115vw;
     font-size: 2vw;
@@ -595,7 +595,7 @@
     
   #requirements{
     float: left;
-    width:55vw;
+    width:53vw;
     height: 115vw;
     background-color: #73A5C6;
     /* padding: 2%; */
