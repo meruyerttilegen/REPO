@@ -22,7 +22,6 @@ function perimeter_of_rectangle(a,b){
 }
 
 
-
 is_equal(3,5)
 is_equal(10,10)
 area_of_circle(10)
